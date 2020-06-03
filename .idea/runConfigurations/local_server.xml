@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="local server" type="ShConfigurationType">
+    <option name="SCRIPT_PATH" value="" />
+    <option name="SCRIPT_OPTIONS" value="" />
+    <option name="INTERPRETER_PATH" value="ipython" />
+    <option name="INTERPRETER_OPTIONS" value="-m http.server" />
+    <method v="2" />
+  </configuration>
+</component>
